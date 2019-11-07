@@ -1,0 +1,5 @@
+﻿  graphics.cpp
+c:\users\galzilca\documents\לימודים\שנה 3\סמסטר קיץ\גרפיקה ממוחשבת\הרצאות\exe4\basic_graphics\graphics.cpp(15): warning C4091: 'typedef ': ignored on left of 'Point' when no variable is declared
+c:\users\galzilca\documents\לימודים\שנה 3\סמסטר קיץ\גרפיקה ממוחשבת\הרצאות\exe4\basic_graphics\graphics.cpp(23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  basic_graphics.vcxproj -> C:\Users\galzilca\Documents\לימודים\שנה 3\סמסטר קיץ\גרפיקה ממוחשבת\הרצאות\Exe4\Debug\basic_graphics.exe
+  basic_graphics.vcxproj -> C:\Users\galzilca\Documents\לימודים\שנה 3\סמסטר קיץ\גרפיקה ממוחשבת\הרצאות\Exe4\Debug\basic_graphics.pdb (Full PDB)
